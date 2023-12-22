@@ -12,6 +12,11 @@
   🚴🏻 Triathlon is my favorite hobby - becoming an Ironman once...💭
   
   🗄️ working at <a href="www.ml6.eu">ML6</a>, OCTO
+
+  🗣 I love public speaking!
   
 
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbontinck)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbontinck&show_icons=true&theme=default)
