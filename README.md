@@ -8,7 +8,10 @@
   Jens is an AI enthousiast with a knack for accelerating intelligence and making technology easy for all! He brings his own unique perspective on the current and future evolutions in AI and shares his opinionated insights through this <a href="https://medium.com/@jens.bontinck">blog</a>. 
 
   🌍 living in Antwerp, originating from Ghent
+  
   🚴🏻 Triathlon is my favorite hobby - becoming an Ironman once...💭
+  
   🗄️ working at <a href="www.ml6.eu">ML6</a>, OCTO
+  
 
 </p>
