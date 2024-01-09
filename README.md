@@ -18,5 +18,9 @@
 
 </p>
 
+<p>Great AI resources:
+https://aman.ai/primers/ai/
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbontinck)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbontinck&show_icons=true&theme=default)
