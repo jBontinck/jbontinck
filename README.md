@@ -20,9 +20,13 @@
 
 <p>Great AI resources:
   
-https://aman.ai/primers/ai/
+Aman Chadha - https://aman.ai/primers/ai/
+
+Chip Huyen - https://huyenchip.com/blog/
 
 https://huggingface.co/blog
+
+
 
 
 </p>
