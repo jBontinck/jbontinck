@@ -19,7 +19,12 @@
 </p>
 
 <p>Great AI resources:
+  
 https://aman.ai/primers/ai/
+
+https://huggingface.co/blog
+
+
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbontinck)](https://github.com/anuraghazra/github-readme-stats)
