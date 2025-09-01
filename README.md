@@ -9,12 +9,6 @@
 
   🌍 living in Antwerp, originating from Ghent
   
-  🚴🏻 Triathlon is my favorite hobby - becoming an Ironman once...💭
-  
-  🗄️ working at <a href="www.ml6.eu">ML6</a>, OCTO
-
-  🗣 I love public speaking!
-  
 
 </p>
 
